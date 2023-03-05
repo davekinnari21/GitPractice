@@ -1,3 +1,4 @@
+Hi
 Hello World
 Updated in Git2
 third line added
