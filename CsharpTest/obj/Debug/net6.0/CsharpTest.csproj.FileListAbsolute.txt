@@ -1,0 +1,14 @@
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\bin\Debug\net6.0\CsharpTest.exe
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\bin\Debug\net6.0\CsharpTest.deps.json
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\bin\Debug\net6.0\CsharpTest.runtimeconfig.json
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\bin\Debug\net6.0\CsharpTest.dll
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\bin\Debug\net6.0\ref\CsharpTest.dll
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\bin\Debug\net6.0\CsharpTest.pdb
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.AssemblyInfoInputs.cache
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.AssemblyInfo.cs
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.csproj.CoreCompileInputs.cache
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.dll
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\obj\Debug\net6.0\ref\CsharpTest.dll
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.pdb
+C:\Users\kdave\source\repos\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.genruntimeconfig.cache
